@@ -1,10 +1,8 @@
 Colección de 10 sencillas API en PHP que realizan diferentes funciones: desde obtención de datos del clima hasta predicción de edad y género. Cada script está preparado para responder en formato JSON.
 
 
-* Contenido del repositorio
+Contenido del repositorio
 
-  
-Archivo	Descripción
 * index.php:	Punto de entrada principal con enlaces a todas las APIs.
 * cambio_monedas.php:	Conversión de monedas utilizando una API externa.
 * chistes.php:	Devuelve un chiste aleatorio.
